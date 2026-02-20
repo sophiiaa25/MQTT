@@ -1,4 +1,5 @@
 README – Comunicação MQTT no Google Colab
+Codigo feito no Colab 
 
 Sobre o projeto
 Este projeto demonstra como utilizar o protocolo MQTT para realizar comunicação entre aplicações usando Python no ambiente do Google Colab. O código cria um cliente MQTT que se conecta a um broker público, se inscreve em um tópico e permite tanto o envio quanto o recebimento de mensagens em tempo real. Esse tipo de comunicação é muito utilizado em projetos de Internet das Coisas, automação e sistemas distribuídos, pois o MQTT é um protocolo leve e eficiente para troca de mensagens entre dispositivos.
